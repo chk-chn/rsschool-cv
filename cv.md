@@ -14,7 +14,8 @@ Successful hotel manager with more than 10 years of professional experience. See
 > function multiply(a, b) {  
 >  a * b  
 >  return a * b  
->} 
+>}  
+
 ## Education  
 BA Hospitality Management  
 St. Petersburg University of Economics   
