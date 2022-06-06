@@ -10,12 +10,6 @@ Successful hotel manager with more than 10 years of professional experience. See
 * HTML  
 * CSS  
 * Figma  
-## Code example  
-> function multiply(a, b) {  
->  a * b  
->  return a * b  
->}  
-
 ## Education  
 BA Hospitality Management  
 St. Petersburg University of Economics   
@@ -23,4 +17,8 @@ St. Petersburg University of Economics
 English - B2  
 French - B1  
 I worked for an international company where English was the main language for internal communication. Communication in English with foreign clients.
-
+## Code example  
+> function multiply(a, b) {  
+>  a * b  
+>  return a * b  
+>}  
